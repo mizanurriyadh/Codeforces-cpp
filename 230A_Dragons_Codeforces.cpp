@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     pair<int, int> xy[10000];
-    int i, s, n, flag=0;
+    int i, s, n;
     
     cin>>s>>n;
     
